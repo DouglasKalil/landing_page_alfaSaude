@@ -1,0 +1,28 @@
+- [x] Preparar a logo enviada como ativo persistente do projeto.
+- [x] Atualizar a marca Alfa Saúde no cabeçalho com as cores vermelho e verde-água da logo.
+- [x] Substituir a imagem do hero por uma composição de fundo branco.
+- [x] Aplicar Segoe UI como tipografia global da landing page.
+- [ ] Validar a atualização e salvar uma versão estável.
+- [x] Publicar as seis imagens enviadas como ativos persistentes.
+- [x] Aplicar a imagem de atendimento odontológico no hero com contraste para o texto.
+- [x] Substituir imagens de consultas, equipe e estrutura pelos novos materiais.
+- [x] Aproximar o título inicial do cabeçalho e validar a composição.
+- [x] Remover os marcadores azuis dos cartões de serviços.
+- [x] Atualizar o endereço institucional para a unidade de Teresina.
+- [x] Remover os pontos decorativos da lista de estrutura.
+- [x] Reorganizar os cartões de consultas e cirurgias para reduzir espaços vazios.
+- [x] Remover os blocos de conteúdo indicados nas referências.
+- [x] Substituir a seção de equipe por uma vitrine de hospitais credenciados.
+- [x] Preparar e inserir as imagens de hospitais enviadas.
+- [x] Remover a linha vermelha inicial e atualizar o texto institucional do hero.
+- [x] Aplicar Raleway e a paleta oficial da marca em toda a landing page.
+- [x] Ampliar a logo do cabeçalho e adicionar o atalho flutuante do WhatsApp.
+- [x] Preparar os logos de Oftalmo Club e Centro Imagem como ativos persistentes.
+- [x] Adicionar os novos parceiros à vitrine da rede credenciada.
+- [x] Aplicar a paleta da marca no bloco de agendamento e no botão Fale conosco.
+- [x] Aplicar a paleta da marca em Perguntas frequentes, Localização & contato e Como chegar.
+- [x] Aplicar a paleta vermelho-verde-água da logo ao título e ao botão da seção de estrutura.
+- [x] Aplicar a paleta vermelho-verde-água da logo à seção Jornada do paciente.
+- [x] Revisar e corrigir a responsividade da landing page em celulares, tablets e desktops, eliminando sobreposições de conteúdo.
+- [x] Conectar os botões e atalhos aos canais oficiais, atualizar contatos, horários, FAQ e redes sociais da Alfa Saúde.
+- [ ] Preparar e entregar um arquivo ZIP completo da versão atual, com o código e os ativos visuais utilizados.
