@@ -1,6 +1,6 @@
 /* Design: cuidado institucional contemporâneo — localização e contato devem inspirar orientação e confiança. */
 import { motion } from "framer-motion";
-import { MapPin, Phone, MessageCircle, Mail, Clock, AlertCircle } from "lucide-react";
+import { MapPin, Phone, MessageCircle, Mail, Clock } from "lucide-react";
 
 const CONTACT_ITEMS = [
   {
@@ -90,47 +90,6 @@ export function LocationSection() {
             <br />
             para receber você.
           </h2>
-        </motion.div>
-
-        {/* Emergency banner */}
-        <motion.div
-          initial={{ opacity: 0, y: 16 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.5 }}
-          className="mb-8 flex flex-col items-start gap-4 rounded-2xl p-4 sm:mb-10 sm:flex-row sm:items-center sm:p-5"
-          style={{
-            background: "#FFF4F4",
-            border: "1.5px solid #F5C5C8",
-          }}
-        >
-          <div
-            className="w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0"
-            style={{ background: "#FDECEE" }}
-          >
-            <AlertCircle className="w-5 h-5" style={{ color: "#E63946" }} />
-          </div>
-          <div className="min-w-0">
-            <span style={{ fontSize: "15px", fontWeight: 700, color: "#C1202B" }}>
-              Atendimento de Emergência 24h:
-            </span>
-            <span className="block sm:inline" style={{ fontSize: "15px", color: "#6B7C8D", marginLeft: "8px" }}>
-              +55 (86) 8827-0703 — Para situações de urgência e emergência médica.
-            </span>
-          </div>
-          <a
-            href="https://wa.me/558688270703?text=Ol%C3%A1%21%20Preciso%20de%20atendimento%20de%20urg%C3%AAncia."
-            target="_blank"
-            rel="noopener noreferrer"
-            className="w-full flex-shrink-0 rounded-xl px-4 py-2 text-center text-white transition-all hover:shadow-lg sm:ml-auto sm:w-auto"
-            style={{
-              background: "#E63946",
-              fontSize: "13px",
-              fontWeight: 700,
-            }}
-          >
-            Falar agora
-          </a>
         </motion.div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10">

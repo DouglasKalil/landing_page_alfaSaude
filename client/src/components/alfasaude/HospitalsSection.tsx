@@ -60,7 +60,7 @@ export function HospitalsSection() {
               <span className="absolute right-4 top-4 flex h-8 w-8 items-center justify-center rounded-full opacity-0 transition-all duration-300 group-hover:opacity-100" style={{ background: "#258D83", color: "#FFFFFF" }}>
                 <ArrowUpRight className="h-4 w-4" />
               </span>
-              <div className="flex flex-1 items-center justify-center rounded-2xl border bg-white p-6" style={{ borderColor: "#E7F0EE", borderTop: "3px solid #258D83" }}>
+              <div className="flex flex-1 items-center justify-center rounded-2xl border bg-white p-6" style={{ borderColor: "#E7F0EE" }}>
                 <img src={partner.image} alt={`Logo ${partner.name}`} className="h-28 max-w-[84%] object-contain transition-transform duration-500 group-hover:scale-105 sm:h-32" />
               </div>
               <div className="pt-5">
