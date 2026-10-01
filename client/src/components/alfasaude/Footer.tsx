@@ -2,7 +2,7 @@
 import { Phone, MessageCircle, Mail, MapPin, Instagram, Facebook } from "lucide-react";
 
 const alfaLogo = "/assets/alfa-saude-logo-oficial.webp";
-const WHATSAPP_URL = "https://wa.me/558688270703?text=Ol%C3%A1%21%20Gostaria%20de%20falar%20com%20a%20Alfa%20Sa%C3%BAde.";
+const WHATSAPP_URL = "https://wa.me/558622225555?text=Ol%C3%A1%21%20Gostaria%20de%20falar%20com%20a%20Alfa%20Sa%C3%BAde.";
 const MAP_URL = "https://www.google.com/maps/search/?api=1&query=R.%20Coelho%20de%20Resende%2C%20551%2C%20Centro%20(Sul)%2C%20Teresina%20-%20PI%2C%2064001-370";
 
 const COLUMNS = [
@@ -29,7 +29,7 @@ const COLUMNS = [
     title: "Paciente",
     links: [
       { label: "Agendamento", href: WHATSAPP_URL },
-      { label: "Resultados de exames", href: "https://wa.me/558688270703?text=Ol%C3%A1%21%20Gostaria%20de%20consultar%20meus%20resultados%20de%20exames." },
+      { label: "Resultados de exames", href: "https://wa.me/558622225555?text=Ol%C3%A1%21%20Gostaria%20de%20consultar%20meus%20resultados%20de%20exames." },
       { label: "Convênios aceitos", href: "#" },
       { label: "Orientações pré-consulta", href: "#" },
     ],
@@ -82,8 +82,8 @@ export function Footer() {
             {/* Contact info */}
             <div className="space-y-3 mb-8">
               {[
-                { id: "telefone", icon: Phone, text: "+55 (86) 8827-0703", href: WHATSAPP_URL },
-                { id: "whatsapp", icon: MessageCircle, text: "+55 (86) 8827-0703", href: WHATSAPP_URL },
+                { id: "telefone", icon: Phone, text: "(86) 2222-5555", href: WHATSAPP_URL },
+                { id: "whatsapp", icon: MessageCircle, text: "(86) 2222-5555", href: WHATSAPP_URL },
                 { id: "email", icon: Mail, text: "contato@alfaclub.com.br", href: "mailto:contato@alfaclub.com.br" },
                 { id: "endereco", icon: MapPin, text: "R. Coelho de Resende, 551 — Teresina, PI", href: MAP_URL },
               ].map((item) => (

@@ -2,7 +2,7 @@
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 
-const WHATSAPP_URL = "https://wa.me/558688270703?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20uma%20visita%20ou%20atendimento%20na%20Alfa%20Sa%C3%BAde.";
+const WHATSAPP_URL = "https://wa.me/558622225555?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20uma%20visita%20ou%20atendimento%20na%20Alfa%20Sa%C3%BAde.";
 
 const IMAGES = [
   {

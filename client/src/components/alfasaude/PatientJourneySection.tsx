@@ -2,7 +2,7 @@
 import { motion } from "framer-motion";
 import { Calendar, Stethoscope, FlaskConical, Pill, ClipboardCheck } from "lucide-react";
 
-const WHATSAPP_URL = "https://wa.me/558688270703?text=Ol%C3%A1%21%20Gostaria%20de%20iniciar%20minha%20jornada%20na%20Alfa%20Sa%C3%BAde%20e%20agendar%20um%20atendimento.";
+const WHATSAPP_URL = "https://wa.me/558622225555?text=Ol%C3%A1%21%20Gostaria%20de%20iniciar%20minha%20jornada%20na%20Alfa%20Sa%C3%BAde%20e%20agendar%20um%20atendimento.";
 
 const STEPS = [
   {

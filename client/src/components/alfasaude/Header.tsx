@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, Phone } from "lucide-react";
 
 const alfaLogo = "/assets/alfa-saude-logo-oficial.webp";
-const WHATSAPP_URL = "https://wa.me/558688270703?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20um%20atendimento%20na%20Alfa%20Sa%C3%BAde.";
+const WHATSAPP_URL = "https://wa.me/558622225555?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20um%20atendimento%20na%20Alfa%20Sa%C3%BAde.";
 
 const NAV_ITEMS = [
   { label: "Início", href: "#inicio" },
@@ -88,7 +88,7 @@ export function Header() {
               }}
             >
               <Phone className="w-4 h-4" />
-              <span>+55 (86) 8827-0703</span>
+              <span>(86) 2222-5555</span>
             </a>
             <a
               href={WHATSAPP_URL}
@@ -165,7 +165,7 @@ export function Header() {
                   }}
                 >
                   <Phone className="w-4 h-4 text-[#258D83]" />
-                  <span>+55 (86) 8827-0703</span>
+                  <span>(86) 2222-5555</span>
                 </a>
                 <a
                   href={WHATSAPP_URL}

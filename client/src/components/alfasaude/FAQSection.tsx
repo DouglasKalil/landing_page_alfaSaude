@@ -7,7 +7,7 @@ const FAQS = [
   {
     question: "Como faço para agendar uma consulta?",
     answer:
-      "Você pode agendar sua consulta pelo WhatsApp +55 (86) 8827-0703. Basta escolher a especialidade, o profissional e o horário disponível.",
+      "Você pode agendar sua consulta pelo WhatsApp (86) 2222-5555. Basta escolher a especialidade, o profissional e o horário disponível.",
   },
   {
     question: "Quais especialidades estão disponíveis?",
@@ -159,7 +159,7 @@ export function FAQSection() {
             Não encontrou o que procurava?
           </p>
           <a
-            href="https://wa.me/558688270703?text=Ol%C3%A1%21%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20os%20servi%C3%A7os%20da%20Alfa%20Sa%C3%BAde."
+            href="https://wa.me/558622225555?text=Ol%C3%A1%21%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20sobre%20os%20servi%C3%A7os%20da%20Alfa%20Sa%C3%BAde."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl transition-all hover:shadow-lg hover:shadow-[#258D83]/25 hover:-translate-y-px"

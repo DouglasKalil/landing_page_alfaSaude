@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { Calendar, FlaskConical, Scissors, FileSearch } from "lucide-react";
 
 const whatsappLink = (message: string) =>
-  `https://wa.me/558688270703?text=${encodeURIComponent(message)}`;
+  `https://wa.me/558622225555?text=${encodeURIComponent(message)}`;
 
 const CARDS = [
   {

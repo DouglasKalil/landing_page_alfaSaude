@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { Calendar, MessageCircle, Phone, Clock } from "lucide-react";
 
 const CTA_IMAGE = "/assets/consulta-medica.webp";
-const WHATSAPP_URL = "https://wa.me/558688270703?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20um%20atendimento%20na%20Alfa%20Sa%C3%BAde.";
+const WHATSAPP_URL = "https://wa.me/558622225555?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20um%20atendimento%20na%20Alfa%20Sa%C3%BAde.";
 
 export function AppointmentCTA() {
   return (
@@ -128,7 +128,7 @@ export function AppointmentCTA() {
                       Central de Agendamento
                     </div>
                     <div style={{ color: "white", fontSize: "14px", fontWeight: 700 }}>
-                      +55 (86) 8827-0703
+                      (86) 2222-5555
                     </div>
                   </div>
                 </div>

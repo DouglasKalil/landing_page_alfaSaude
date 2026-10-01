@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { ArrowRight, Calendar, CheckCircle } from "lucide-react";
 
 const TRUST_BADGES = ["Atendimento especializado", "Tecnologia e segurança", "Rede credenciada"];
-const WHATSAPP_URL = "https://wa.me/558688270703?text=Ol%C3%A1%21%20Gostaria%20de%20realizar%20um%20atendimento%20na%20Alfa%20Sa%C3%BAde.";
+const WHATSAPP_URL = "https://wa.me/558622225555?text=Ol%C3%A1%21%20Gostaria%20de%20realizar%20um%20atendimento%20na%20Alfa%20Sa%C3%BAde.";
 const INSTAGRAM_URL = "https://www.instagram.com/alfa_saude?igsi=MWF5YjlzbTB0dnozMw==";
 
 const fadeUp = (delay = 0) => ({

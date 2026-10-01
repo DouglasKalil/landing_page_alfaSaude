@@ -2,7 +2,7 @@
 export function FloatingWhatsApp() {
   return (
     <a
-      href="https://wa.me/558688270703?text=Ol%C3%A1%21%20Gostaria%20de%20falar%20com%20a%20Alfa%20Sa%C3%BAde."
+      href="https://wa.me/558622225555?text=Ol%C3%A1%21%20Gostaria%20de%20falar%20com%20a%20Alfa%20Sa%C3%BAde."
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-5 right-5 z-50 flex h-14 w-14 items-center justify-center rounded-full text-white shadow-xl transition-all duration-200 hover:-translate-y-1 hover:shadow-2xl active:scale-95 sm:bottom-7 sm:right-7"
